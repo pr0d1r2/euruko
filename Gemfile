@@ -1,4 +1,4 @@
-source "http://gemcutter.org"
+source :rubygems
 source "http://gems.github.com/"
 
 gem 'rake', '0.8.7'
