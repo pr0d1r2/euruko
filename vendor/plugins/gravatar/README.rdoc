@@ -49,7 +49,7 @@ The following people have also written gravatar-related Ruby libraries:
   http://westarete.com
   scott at westarete dot com
 
-== TODO
+== TO DO
 
 * Add specs for ssl support
 * Finish rdoc documentation
